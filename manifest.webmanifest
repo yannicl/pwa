@@ -11,6 +11,6 @@
   ],
   "name": "Awesome fox pictures",
   "short_name": "Foxes",
-  "scope" : "/",
+  "scope" : "/pwa/",
   "start_url": "/pwa/index.html"
 }
